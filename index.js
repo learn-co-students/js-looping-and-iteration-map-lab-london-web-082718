@@ -1,13 +1,8 @@
 // Code your solution in this file.
 
-// function lowerCaseDrivers(array) {
-//   return array.map(driver => driver.toLowerCase())
-// }
-
-
-// to refactor
-const lowerCaseDrivers(array) = array.map(driver => driver.toLowerCase())
-
+function lowerCaseDrivers(array) {
+  return array.map(driver => driver.toLowerCase())
+}
 
 
 function nameToAttributes(array) {
